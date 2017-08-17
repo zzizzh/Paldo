@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paldo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_writing">WritingActivity</string>
+
+    <string name="hello">Hello World, NMapViewer!</string>
+    <string name="str_done">완료</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
